@@ -1,5 +1,7 @@
 # wsl-suckless
 
+A short setup guide of making WSL more awesome. 
+
 ## WSL Terminal
 Download and install WSL Terminal: https://github.com/goreliu/wsl-terminal
 
@@ -40,7 +42,7 @@ exec zsh
 fi
 ```
 
-## Pimp ZSH
+## Install "Oh My ZSH"
 ```
 curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
 ```
