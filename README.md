@@ -1,6 +1,6 @@
 # wsl-suckless
 
-A short setup guide of making WSL more awesome or suck less.
+A short setup guide of making WSL more awesome and suck less.
 
 ## WSL Terminal
 Download and install WSL Terminal: https://github.com/goreliu/wsl-terminal
