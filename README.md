@@ -60,7 +60,7 @@ In theme options of WSL Terminal choose the Solarized Dark theme.
 mkdir ~/git
 cd ~/git
 git clone https://github.com/seebi/dircolors-solarized .
-echo "eval 'dircolors ~/Git/dircolors-solarized/dircolors.256dark'" >> ~/.zshrc
+echo "eval 'dircolors ~/git/dircolors-solarized/dircolors.256dark'" >> ~/.zshrc
 ```
 ## Download and install DejaVu Font
 
