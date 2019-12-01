@@ -11,7 +11,7 @@ wget https://github.com/goreliu/wsl-terminal/releases/download/v0.8.13/wsl-termi
 
 ## Use TMUX
 
-### Start TMUX on launching a terminal
+### Start TMUX at startup
 Add this to `~/.bashrc`
 
 ```
